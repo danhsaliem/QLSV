@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\danhsaliem-c#\\danhsaliemQLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|e:\\danhsaliem-c#\\danhsaliemqlsv\\danhsaliemqlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|e:\\danhsaliem-c#\\danhsaliemqlsv\\danhsaliemqlsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemqlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|e:\\danhsaliem-c#\\danhsaliemqlsv\\danhsaliemqlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemqlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|e:\\danhsaliem-c#\\danhsaliemqlsv\\danhsaliemqlsv\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A342395D-3E5C-4013-ADA8-6A673FE1C83C}|danhsaliemQLSV\\danhsaliemQLSV.csproj|solutionrelative:danhsaliemqlsv\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.Designer.cs",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.Designer.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\home.Designer.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.Designer.cs",
+              "RelativeToolTip": "danhsaliemQLSV\\home.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:38:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\Form1.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.cs",
+              "RelativeToolTip": "danhsaliemQLSV\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:31:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\Form1.Designer.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.Designer.cs",
+              "RelativeToolTip": "danhsaliemQLSV\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:39:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.cs",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\home.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.cs",
+              "RelativeToolTip": "danhsaliemQLSV\\home.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwIIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:48:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\Form1.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\Form1.cs [Design]",
+              "RelativeToolTip": "danhsaliemQLSV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:25:22.515Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.cs",
+              "RelativeDocumentMoniker": "danhsaliemQLSV\\home.cs",
+              "ToolTip": "E:\\danhsaliem-c#\\danhsaliemQLSV\\danhsaliemQLSV\\home.cs [Design]",
+              "RelativeToolTip": "danhsaliemQLSV\\home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:32:11.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
